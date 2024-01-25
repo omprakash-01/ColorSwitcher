@@ -1,17 +1,6 @@
 *{
     margin: 0;
 }
-nav{
-    background-color: gray;
-    font-size: 50px;
-    padding: 20px;
-}
-a{
-    text-decoration: none;
-    padding-right: 50px;
-    border: solid black 2px;
-    
-}
 span{
     display: block;
 }
@@ -29,8 +18,8 @@ span{
 #grey{
     background-color: grey;
 }
-#white{
-    background-color: white;
+#brown{
+    background-color:brown;
 }
 #blue{
     background-color: blue;
